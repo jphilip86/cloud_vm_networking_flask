@@ -13,17 +13,17 @@ Video recording:
 Zoom/Loom:
 
 Steps
-1. VM Creation
-![assignment](IMAGES/GCP VM setup.png)
+## 1. VM Creation
+![Assignment](IMAGES\GCP VM setup.png)
 
 2. Networking (Port 5003 Open)
-![assignment](IMAGES/flask running after GCP setup.png)
+![Assignment](IMAGES\flask running after GCP setup.png)
 
 3. OS Update + Python Install
-![assignment](IMAGES/IP Flask running.png)
+![Assignment](IMAGES\IP Flask running.png)
 
 4. Flask App Running
-![assignment](IMAGES/all 3 GCP.png)
+![Assignment](IMAGES\all 3 GCP.png)
 
 5. Public IP Access
 URL: http://XX.XX.XXX.XXX:5003
