@@ -14,13 +14,13 @@ Zoom/Loom:
 
 Steps
 ## 1. VM Creation
-![Screenshot](IMAGES/GCP_VM_setup.png)
+![Screenshot](IMAGES\GCP VM setup.png)
 
 2. Networking (Port 5003 Open)
-![Assignment](IMAGES/flask_running_after_GCP_setup.png)
+![Assignment](IMAGES\flask running after GCP setup.png)
 
 3. OS Update + Python Install
-![Assignment](IMAGES/IP_Flask_running.png)
+![Assignment](IMAGES\IP Flask running.png)
 
 4. Flask App Running
 !(IMAGES/all_3_GCP.png)
