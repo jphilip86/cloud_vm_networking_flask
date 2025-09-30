@@ -14,16 +14,16 @@ Zoom/Loom:
 
 Steps
 1. VM Creation
-[screenshot]
+![IMAGES/GCP VM setup.png]
 
 2. Networking (Port 5003 Open)
-[screenshot]
+![IMAGES/flask running after GCP setup.png]
 
 3. OS Update + Python Install
-[commands + screenshot]
+![IMAGES/IP Flask running.png]
 
 4. Flask App Running
-[screenshot of terminal + browser]
+![IMAGES/all 3 GCP.png]
 
 5. Public IP Access
 URL: http://XX.XX.XXX.XXX:5003
