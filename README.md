@@ -14,7 +14,7 @@ Zoom/Loom:
 
 Steps
 ## 1. VM Creation
-!(IMAGES/GCP_VM_setup.png)
+![Screenshot](IMAGES/GCP_VM_setup.png)
 
 2. Networking (Port 5003 Open)
 ![Assignment](IMAGES/flask_running_after_GCP_setup.png)
