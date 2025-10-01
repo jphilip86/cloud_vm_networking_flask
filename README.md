@@ -1,21 +1,5 @@
-# cloud_vm_networking_flask
-Assignment 2 Flask on Cloud VM
 
-
-Flask on Cloud VM (Assignment 2)
-Student Info
-Name:
-
-Cloud Provider:
-
-Video recording:
-
-Zoom/Loom:
-
-Steps
-## 1. VM Creation
-
-![Screenshot](C:/Users/jaison/Downloads/PROJECTS/cloud_vm_networking_flask/IMAGES/GCP VM setup.png)
+![Screenshot](IMAGES/GCP%20VM%20setup.png)
 
 2. Networking (Port 5003 Open)
 ![Assignment](IMAGES/flask_running_after_GCP_setup.png)
