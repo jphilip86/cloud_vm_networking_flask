@@ -6,8 +6,8 @@ Name: JAISON PHILIP
 Cloud Provider: GCP
 
 Video recording: 
-[videofile](https://youtu.be/Xumffoh9_4s)
-
+[![IMAGE ALT TEXT HERE](https://youtu.be/Xumffoh9_4s/Xumffoh9_4sE/0.jpg)]
+  
 Zoom/Loom: ZOOM 
 
 Steps : I had run the instance first and got a few screen shots of the sessions.
