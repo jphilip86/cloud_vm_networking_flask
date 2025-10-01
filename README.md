@@ -34,7 +34,7 @@ Screenshots are from 1st recording IP access
 6. (Bonus) Domain Name 
 failed on Git hub as I am still getting the processing message despite setting up MFA and credit card billing info
 
-![screenshot](IMAGES/failed%20github.pngfailed github.png)
+![screenshot](IMAGES/failed%20github.png)
 
-![screenshot](IMAGES/failed%20github2.pngfailed github2.png)
+![screenshot](IMAGES/failed%20github2.png)
 
