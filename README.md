@@ -1,4 +1,18 @@
+Flask on Cloud VM (Assignment 2)
+Student Info
 
+Name: JAISON PHILIP
+
+Cloud Provider: GCP
+
+Video recording:
+
+Zoom/Loom:
+
+Steps
+
+
+1. VM Creation
 ![Screenshot](IMAGES/GCP%20VM%20setup.png)
 
 2. Networking (Port 5003 Open)
