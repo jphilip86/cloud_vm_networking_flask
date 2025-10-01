@@ -6,7 +6,7 @@ Name: JAISON PHILIP
 Cloud Provider: GCP
 
 Video recording: 
-[!videofile](IMAGES/video1433364260.mp4)
+[videofile](https://youtu.be/Xumffoh9_4s)
 
 Zoom/Loom: ZOOM 
 
